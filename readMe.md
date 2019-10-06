@@ -1,9 +1,9 @@
 # B-TREE AND LINEAR HASHING
 
-#PROGRAMMER
+# PROGRAMMER
 	AAYUSH GOEL
 
-#Q1 B+ TREE
+# Q1 B+ TREE
 	* To run the python code enter:
 		python3 q1.py inputFileName
 
@@ -17,7 +17,7 @@
 
 	* The complexity is nlogn as in any standard B+  tree
 
-#Q2 LINEAR HASHING
+# Q2 LINEAR HASHING
 	* To run the python code enter:
 		python3 q2.py inputFileName
 
